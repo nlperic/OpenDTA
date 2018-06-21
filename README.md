@@ -10,3 +10,4 @@ An open source solver for dynamic traffic assignment
   - Method of successive average (MSA)
   - Variational inequalities (VI)
   
+We will update the source code in July.
